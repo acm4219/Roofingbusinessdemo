@@ -8,18 +8,18 @@ function Navbar() {
                 <div className="container-fluid">
                     <div>
                     <img src="./homestock2.jpg" alt="business-placeholder" style={{height: 50, marginRight: 20}}/>
-                    <Link className="navbar-brand" to="/">Working Title</Link>
+                    <Link className="navbar-brand" to="Roofingbusinessdemo/">Working Title</Link>
                     </div>
                         <ul className="nav justify-content-end">
                         <li className="nav-item">
-                        <Link to="/form" className="nav-link text-white">Work Request</Link>
+                        <Link to="Roofingbusinessdemo/form" className="nav-link text-white">Work Request</Link>
                         </li>
                         <li className="nav-item">
-                        <Link to="/products" className="nav-link text-white">Products</Link>
+                        <Link to="Roofingbusinessdemo/products" className="nav-link text-white">Products</Link>
                         </li>
                         
                         <li className="nav-item">
-                        <Link to ="/about" className="nav-link text-white">About</Link>
+                        <Link to ="Roofingbusinessdemo/about" className="nav-link text-white">About</Link>
                         </li>
                        
                         </ul>

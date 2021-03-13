@@ -33,7 +33,7 @@ function Entry() {
                 <br />
                 <div className="row">
                     <div className="col-sm d-flex justify-content-center">
-                        <Link className="btn btn-lg btn-primary" to="/products">Get Started</Link>
+                        <Link className="btn btn-lg btn-primary" to="Roofingbusinessdemo/products">Get Started</Link>
                     </div>
                 </div>
             </div>
