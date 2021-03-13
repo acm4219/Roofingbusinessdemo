@@ -13,22 +13,22 @@ function App() {
     <Router>
       <Navbar />
         <Switch>
-          <Route exact path="Roofingbusinessdemo/">
+          <Route exact path="/Roofingbusinessdemo/">
             <Entry />
           </Route>
-          <Route path="Roofingbusinessdemo/about">
+          <Route path="/Roofingbusinessdemo/about">
             <About />
           </Route>
-          <Route path="Roofingbusinessdemo/backend">
+          <Route path="/Roofingbusinessdemo/backend">
             <Backend />
           </Route>
-          <Route path="Roofingbusinessdemo/form">
+          <Route path="/Roofingbusinessdemo/form">
             <FormPage />
           </Route>
-          <Route path="Roofingbusinessdemo/leads">
+          <Route path="/Roofingbusinessdemo/leads">
             <LeadPage />
           </Route>
-          <Route path="Roofingbusinessdemo/products">
+          <Route path="/Roofingbusinessdemo/products">
             <Products />
           </Route>
         </Switch>

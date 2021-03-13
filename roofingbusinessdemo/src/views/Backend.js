@@ -9,7 +9,7 @@ function Backend() {
             <label for="filter">Narrow your search</label>
             <div className="input-group mb-3"> 
                 <input type="text" className="form-control" placeholder="Search Leads" />
-                <Link to="Roofingbusinessdemo/leads" className="btn btn-primary">Search</Link>
+                <Link to="/Roofingbusinessdemo/leads" className="btn btn-primary">Search</Link>
             </div>
             <div className="row">
                 <div className="col-sm-4">
@@ -19,8 +19,8 @@ function Backend() {
                         <div className="card-body">
                             <h5 className="card-title"> Example title</h5>
                             <p className="card-text">Home Description</p>
-                            <Link to="Roofingbusinessdemo/leads" className="btn btn-primary m-1">Investigate</Link>
-                            <Link to="/leads" className="btn btn-danger m-1">Delete Job</Link>
+                            <Link to="/Roofingbusinessdemo/leads" className="btn btn-primary m-1">Investigate</Link>
+                            <Link to="/Roofingbusinessdemo/leads" className="btn btn-danger m-1">Delete Job</Link>
                         </div>
                     </div>
                 </div>
@@ -31,8 +31,8 @@ function Backend() {
                         <div className="card-body">
                             <h5 className="card-title"> Example title</h5>
                             <p className="card-text">Home Description</p>
-                            <Link to="/leads" className="btn btn-primary m-1">Investigate</Link>
-                            <Link to="Roofingbusinessdemo/leads" className="btn btn-danger m-1">Delete Job</Link>
+                            <Link to="/Roofingbusinessdemo/leads" className="btn btn-primary m-1">Investigate</Link>
+                            <Link to="/Roofingbusinessdemo/leads" className="btn btn-danger m-1">Delete Job</Link>
                         </div>
                     </div>
                 </div>
@@ -43,8 +43,8 @@ function Backend() {
                         <div className="card-body">
                             <h5 className="card-title"> Example title</h5>
                             <p className="card-text">Home Description</p>
-                            <Link to="/leads" className="btn btn-primary m-1">Investigate</Link>
-                            <Link to="Roofingbusinessdemo/leads" className="btn btn-danger m-1">Delete Job</Link>
+                            <Link to="/Roofingbusinessdemo/leads" className="btn btn-primary m-1">Investigate</Link>
+                            <Link to="/Roofingbusinessdemo/leads" className="btn btn-danger m-1">Delete Job</Link>
                         </div>
                     </div>
                 </div>
@@ -58,8 +58,8 @@ function Backend() {
                         <div className="card-body">
                             <h5 className="card-title"> Example title</h5>
                             <p className="card-text">Home Description</p>
-                            <Link to="/leads" className="btn btn-primary m-1">Investigate</Link>
-                            <Link to="Roofingbusinessdemo/leads" className="btn btn-danger m-1">Delete Job</Link>
+                            <Link to="/Roofingbusinessdemo/leads" className="btn btn-primary m-1">Investigate</Link>
+                            <Link to="/Roofingbusinessdemo/leads" className="btn btn-danger m-1">Delete Job</Link>
                         </div>
                     </div>
                 </div>
@@ -70,8 +70,8 @@ function Backend() {
                         <div className="card-body">
                             <h5 className="card-title"> Example title</h5>
                             <p className="card-text">Home Description</p>
-                            <Link to="/leads" className="btn btn-primary m-1">Investigate</Link>
-                            <Link to="Roofingbusinessdemo/leads" className="btn btn-danger m-1">Delete Job</Link>
+                            <Link to="/Roofingbusinessdemo/leads" className="btn btn-primary m-1">Investigate</Link>
+                            <Link to="/Roofingbusinessdemo/leads" className="btn btn-danger m-1">Delete Job</Link>
                         </div>
                     </div>
                 </div>
@@ -82,8 +82,8 @@ function Backend() {
                         <div className="card-body">
                             <h5 className="card-title"> Example title</h5>
                             <p className="card-text">Home Description</p>
-                            <Link to="Roofingbusinessdemo/leads" className="btn btn-primary m-1">Investigate</Link>
-                            <Link to="/leads" className="btn btn-danger m-1">Delete Job</Link>
+                            <Link to="/Roofingbusinessdemo/leads" className="btn btn-primary m-1">Investigate</Link>
+                            <Link to="/Roofingbusinessdemo/leads" className="btn btn-danger m-1">Delete Job</Link>
                         </div>
                     </div>
                 </div>

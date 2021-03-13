@@ -30,9 +30,9 @@ function LeadPage() {
                         <div className="card-body">
                             <h5>Description of the job</h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras blandit auctor ante vel bibendum.</p>
-                            <Link to="Roofingbusinessdemo/backend" className="btn btn-primary m-1">Follow Up</Link>
-                            <Link to="Roofingbusinessdemo/backend" className="btn btn-success m-1">Job Completed</Link>
-                            <Link to="Roofingbusinessdemo/backend" className="btn btn-danger m-1">Delete Job</Link>
+                            <Link to="/Roofingbusinessdemo/backend" className="btn btn-primary m-1">Follow Up</Link>
+                            <Link to="/Roofingbusinessdemo/backend" className="btn btn-success m-1">Job Completed</Link>
+                            <Link to="/Roofingbusinessdemo/backend" className="btn btn-danger m-1">Delete Job</Link>
                         </div>
                     </div>
                 </div>
